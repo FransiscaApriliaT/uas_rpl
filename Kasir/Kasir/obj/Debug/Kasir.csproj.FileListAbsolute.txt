@@ -1,0 +1,11 @@
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\bin\Debug\Kasir.exe.config
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\bin\Debug\Kasir.exe
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\bin\Debug\Kasir.pdb
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.csproj.AssemblyReference.cache
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.Form1.resources
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.Properties.Resources.resources
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.cache
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.csproj.CoreCompileInputs.cache
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.exe
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.pdb
+C:\Fransisca\Praktikum RPL\Kasir\Kasir\obj\Debug\Kasir.Form2.resources
